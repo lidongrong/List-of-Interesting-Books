@@ -20,6 +20,8 @@ Ma Yi, *High-Dimensional Data Analysis*
 
 Keener, *Theoretical Statistics*
 
+Efron, *Computer Age Statistical Inference*
+
 ### Mathematics
 
 Evans, *Introduction to Stochastic Differential Equation*
@@ -30,7 +32,15 @@ Rick Durrett, *Probability: Theory and Examples*
 
 Do Carmo, *Differential Geometry of Curves and Surfaces*
 
+Yeung Wai-Ho, *Information Theory and Network Coding*
+
 ### Computer Science
 
 邱锡鹏，*神经网络与深度学习*
+
+### Literatures (Fantasy, Fiction, etc)
+
+尼尔·盖曼，*美国众神*
+
+
 
