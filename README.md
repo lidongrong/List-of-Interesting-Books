@@ -34,6 +34,8 @@ Do Carmo, *Differential Geometry of Curves and Surfaces*
 
 Yeung Wai-Ho, *Information Theory and Network Coding*
 
+Roman Vershynin, *High-Dimensional Probability*
+
 ### Computer Science
 
 邱锡鹏，*神经网络与深度学习*
