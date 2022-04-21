@@ -22,6 +22,8 @@ Keener, *Theoretical Statistics*
 
 Efron, *Computer Age Statistical Inference*
 
+Sara van de Geer, *Empirical Process Theory*   (God, it's just soooo difficult, I will revisist it someday)
+
 ### Mathematics
 
 Evans, *Introduction to Stochastic Differential Equation*
