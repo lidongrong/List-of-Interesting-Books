@@ -42,6 +42,8 @@ Roman Vershynin, *High-Dimensional Probability*
 
 邱锡鹏，*神经网络与深度学习*
 
+William L. Hamilton *Graph Representation Learning*
+
 ### Literatures (Fantasy, Fiction, etc)
 
 尼尔·盖曼，*美国众神*
