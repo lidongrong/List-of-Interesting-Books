@@ -50,5 +50,7 @@ William L. Hamilton *Graph Representation Learning*
 
 乔治·R·R·马丁, *七王国的骑士*
 
+艾萨克·阿西莫夫，*神们自己*
+
 
 
