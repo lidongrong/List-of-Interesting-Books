@@ -1,6 +1,6 @@
 # List-of-Interesting-Books
 
-Some Interesting Books I have read during my Ph.D. study are stored here (To avoid copyright problems, only names will be provided)
+Some Interesting Books/Open courses I have read during my Ph.D. study are stored here (To avoid copyright problems, only names will be provided)
 
 This is somehow just a memo:)
 
@@ -23,6 +23,10 @@ Keener, *Theoretical Statistics*
 Efron, *Computer Age Statistical Inference*
 
 Sara van de Geer, *Empirical Process Theory*   (God, it's just soooo difficult, I will revisist it someday)
+
+CUHK STAT3009: Recommender System
+
+UCB STAT210B: Theoretical Statistics II (By Peter Bartlett)
 
 ### Mathematics
 
