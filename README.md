@@ -28,6 +28,8 @@ CUHK STAT3009: Recommender System
 
 UCB STAT210B: Theoretical Statistics II (By Peter Bartlett)
 
+Yale SDS610: Statistical Inference (Last chapter very interesting, needs revising for many times)
+
 ### Mathematics
 
 Evans, *Introduction to Stochastic Differential Equation*
