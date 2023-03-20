@@ -58,5 +58,7 @@ William L. Hamilton *Graph Representation Learning*
 
 艾萨克·阿西莫夫，*神们自己*
 
+乔治·R·R·马丁，*血与火*
+
 
 
