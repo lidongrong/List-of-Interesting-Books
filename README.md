@@ -50,6 +50,10 @@ Roman Vershynin, *High-Dimensional Probability*
 
 William L. Hamilton *Graph Representation Learning*
 
+### Quant Finance
+
+Hands on Machine Learning for Algorithmic Trading
+
 ### Literatures (Fantasy, Fiction, etc)
 
 尼尔·盖曼，*美国众神*
