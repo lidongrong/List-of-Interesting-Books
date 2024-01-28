@@ -30,6 +30,8 @@ UCB STAT210B: Theoretical Statistics II (By Peter Bartlett)
 
 Yale SDS610: Statistical Inference (Last chapter very interesting, needs revising for many times)
 
+Bodhisattva Sen: *A Gentle Introduction to Empirical Process Theory and Applications* (Not gentle at all, very difficult. May revisit the weak convergence part some day).
+
 ### Mathematics
 
 Evans, *Introduction to Stochastic Differential Equation*
