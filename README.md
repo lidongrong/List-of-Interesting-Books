@@ -32,6 +32,8 @@ Yale SDS610: Statistical Inference (Last chapter very interesting, needs revisin
 
 Bodhisattva Sen: *A Gentle Introduction to Empirical Process Theory and Applications* (Not gentle at all, very difficult. May revisit the weak convergence part some day).
 
+Bradly Neal: *Introduction to Causal Inference*
+
 ### Mathematics
 
 Evans, *Introduction to Stochastic Differential Equation*
