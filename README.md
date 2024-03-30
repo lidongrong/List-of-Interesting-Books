@@ -10,6 +10,8 @@ This is somehow just a memo:)
 
 ### Statistics
 
+Tong Zhang, *Learning Theory* (Too many formulas... just)
+
 李航，*统计学习方法*
 
 Larry Wasserman, *All of Statistics*
