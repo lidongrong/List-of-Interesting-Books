@@ -38,6 +38,8 @@ Bradly Neal: *Introduction to Causal Inference*
 
 ### Mathematics
 
+文再文, *最优化：建模，算法与理论*
+
 Evans, *Introduction to Stochastic Differential Equation*
 
 John Conway, *Functional Analysis*
